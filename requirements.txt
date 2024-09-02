@@ -1,0 +1,8 @@
+ipykernel
+langchain
+langchain_community
+langchain-groq
+bs4
+chromadb
+pandas
+streamlit
